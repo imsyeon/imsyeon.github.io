@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "kubeadm 설치 가이드"
-date:   
+date:   2022-04-12
 categories: kubernetes
 ---
 
